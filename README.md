@@ -17,3 +17,8 @@ Attach a `.sprite3` file to your pull request that contains all scripts you've a
 You must properly attach comments to the top of each script that provide where the scripts are supposed to go, and if they're original additions or modifications of pre-existing scripts.
 
 Please ensure all custom extensions used in your scripts are in [TurboWarp's](https://extensions.turbowarp.org/) or [SharkPool's](https://sharkpools-extensions.vercel.app/) extension gallery. Any scripts that contain extensions which are not contained in these galleries will be rejected.
+
+
+# License
+**While we wait to find a professional software license that suits our needs, please follow these rules;**
+* You may modify the DokiWarp engine to your liking. Please ask [Slate](https://github.com/monika-fan70) for permission to distribute it.
