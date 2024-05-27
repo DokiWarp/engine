@@ -17,6 +17,8 @@ Coming soon.
 
 
 # How to submit a pull request
+**⚠️ Ensure you made your update on the latest official version of DokiWarp.**
+<br><br>
 Attach a `.sprite3` file to your pull request that contains all scripts you've added or modified.
 You must properly attach comments to the top of each script that provide where the scripts are supposed to go, and if they're original additions or modifications of pre-existing scripts.
 
