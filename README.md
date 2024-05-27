@@ -20,5 +20,6 @@ Please ensure all custom extensions used in your scripts are in [TurboWarp's](ht
 
 
 # License
-**While we wait to find a professional software license that suits our needs, please follow these rules;**
+**We're working on finding a suitable software license to put DokiWarp under, for now please follow these rules;**
+* You may distribute your game made with DokiWarp as long as you have not modified or removed the splash screen.
 * You may modify the DokiWarp engine to your liking. Please ask [Slate](https://github.com/monika-fan70) for permission to distribute it.
