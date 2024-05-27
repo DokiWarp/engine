@@ -1,7 +1,7 @@
 # Notices
 **⚠️ Some image assets that come pre-packaged inside the engine may not be suitable for sensitive viewers.**
 
-DokiWarp is a visual novel engine made in TurboWarp created with the sole purpose of making it easier to make Doki Doki Literature Club mods.
+DokiWarp is a visual novel engine made in TurboWarp created with the sole purpose of making it easier to make Doki Doki Literature Club "mods". **<sub>(This engine is likely not suitable for creating independant visual novels!)</sub>**
 
 DokiWarp is ran entirely by volunteers, contributors do not make money from this project and we do not accept donations.
 
